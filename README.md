@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Amulya Gowda
 
-### 🤖 Aspiring AI Engineer | 
+### 🤖 Aspiring AI Engineer 
 
 I'm a BE student passionate about **Artificial Intelligence, Machine Learning.
 
@@ -39,6 +39,8 @@ I enjoy learning new technologies, building practical projects, and continuously
 ---
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
 
 <a href="mailto:amulyagowda387@gmail.com">
@@ -49,7 +51,7 @@ I enjoy learning new technologies, building practical projects, and continuously
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/amulyaammu2284>
+<a href="https://instagram.com/amulyaammu2284">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
