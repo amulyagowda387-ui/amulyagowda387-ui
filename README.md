@@ -37,7 +37,6 @@ I enjoy learning new technologies, building practical projects, and continuously
 </p>
 
 ---
-## 🌐 Connect With Me
 
 ## 🌐 Connect With Me
 
