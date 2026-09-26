@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Amulya Gowda
 
-<!--
-**amulyagowda387-ui/amulyagowda387-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI Engineer | Python Developer
 
-Here are some ideas to get you started:
+I'm a BE student passionate about **Artificial Intelligence, Machine Learning, and Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+
+* Python
+* Data Structures & Algorithms
+* Machine Learning
+* AI & Model Development
+
+💻 Skills:
+
+* Python
+* HTML
+* Git & GitHub
+* VS Code
+
+🚀 Projects:
+
+* 📸 Responsive Image Gallery
+* 📝 Student Notes Sharing Platform
+  
+
+### 🔗 Connect with me
+
+* [LinkedIn](https://www.linkedin.com/in/amulya-gowda-629a722a3)
+* [GitHub](https://github.com/amulyagowda387-ui)
+
+---
+
+⭐ Always learning, building, and improving.
