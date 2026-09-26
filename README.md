@@ -2,7 +2,7 @@
 
 ### 🤖 Aspiring AI Engineer 
 
-I'm a BE student passionate about **Artificial Intelligence, Machine Learning.
+I'm a BE student passionate about Artificial Intelligence & Machine Learning.
 
 I enjoy learning new technologies, building practical projects, and continuously improving my programming and problem-solving skills.
 
@@ -46,12 +46,35 @@ I enjoy learning new technologies, building practical projects, and continuously
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/amulya-gowda-629a722a3">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+## 🚀 Projects I've Built
 
-<a href="https://instagram.com/amulyaammu2284">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+### 📸 Responsive Image Gallery
 
-</p>
+A responsive image gallery with category filtering, search, lightbox preview, and navigation.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 [View Project](https://github.com/amulyagowda387-ui/EXPS_ImageGallery)
+
+---
+
+### 🧮 Calculator
+
+A simple and interactive calculator with a clean user interface.
+
+**Technologies:** HTML, CSS, JavaScript
+
+🔗 [View Project](https://github.com/amulyagowda387-ui/EXPS_calculator)
+
+---
+
+### 🤖 AI Resume Analyzer
+
+An AI-powered application designed to analyze resumes and provide useful insights to improve them.
+
+**Technologies:** Python, AI
+
+🔗 [View Project](https://github.com/amulyagowda387-ui/AI-Resume-Analyzer)
+
+---
+
