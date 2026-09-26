@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Amulya Gowda
 
-### 🤖 Aspiring AI Engineer | Python Developer
+### 🤖 Aspiring AI Engineer | 
 
-I'm a BE student passionate about **Artificial Intelligence, Machine Learning, and Python**.
+I'm a BE student passionate about **Artificial Intelligence, Machine Learning.
 
 I enjoy learning new technologies, building practical projects, and continuously improving my programming and problem-solving skills.
 
@@ -16,7 +16,7 @@ I enjoy learning new technologies, building practical projects, and continuously
 - 🧩 Practicing Data Structures & Algorithms
 - 🧠 Interested in Artificial Intelligence & Machine Learning
 - 💻 Building projects to strengthen my development skills
-- 🌱 Always learning and improving
+- 
 
 ---
 
@@ -49,8 +49,8 @@ I enjoy learning new technologies, building practical projects, and continuously
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/amulyagowda387-ui">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://instagram.com/amulyaammu2284>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
